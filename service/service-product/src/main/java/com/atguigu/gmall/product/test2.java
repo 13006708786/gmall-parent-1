@@ -8,4 +8,5 @@ package com.atguigu.gmall.product;
  * @Description:
  */
 public class test2 {
+test
 }
