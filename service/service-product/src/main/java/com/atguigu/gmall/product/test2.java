@@ -9,6 +9,7 @@ package com.atguigu.gmall.product;
  */
 public class test2 {
     public static void main(String[] args) {
-        int b = 2;
+     int b = 2;
+     int a = 1;
     }
 }
