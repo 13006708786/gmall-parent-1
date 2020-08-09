@@ -8,7 +8,5 @@ package com.atguigu.gmall.product;
  * @Description:
  */
 public class test2 {
-    public static void main(String[] args) {
 
-    }
 }
