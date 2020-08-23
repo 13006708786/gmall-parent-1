@@ -23,4 +23,9 @@ public class test2 {
         System.out.println("2222");
     }
 
+
+
+    public void test3(){
+        System.out.println("333");
+    }
 }
