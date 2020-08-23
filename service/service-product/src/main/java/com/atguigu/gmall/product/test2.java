@@ -23,4 +23,10 @@ public class test2 {
         System.out.println("2222");
     }
 
+
+    public void test5(){
+        System.out.println("555");
+    }
+
+
 }
