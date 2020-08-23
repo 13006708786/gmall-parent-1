@@ -18,4 +18,9 @@ public class test2 {
     public void test(){
         System.out.println("111");
     }
+
+    public void test2(){
+        System.out.println("2222");
+    }
+
 }
