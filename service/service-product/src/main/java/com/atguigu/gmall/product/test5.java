@@ -11,6 +11,12 @@ public class test5 {
 
     public void cccc(){
         System.out.println("cccc");
+
+        System.out.println("44");
+
+        System.out.println("44");
+
+        System.out.println("44");
     }
 
 }
