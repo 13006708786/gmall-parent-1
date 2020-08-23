@@ -12,4 +12,9 @@ public class test3 {
     public void aaa(){
         System.out.println("sss");
     }
+
+    public void test4(){
+        System.out.println("44");
+    }
+
 }
