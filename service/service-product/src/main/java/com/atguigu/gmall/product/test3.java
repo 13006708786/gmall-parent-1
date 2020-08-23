@@ -17,4 +17,9 @@ public class test3 {
         System.out.println("44");
     }
 
+
+    public void test7(){
+        System.out.println("7777");
+    }
+
 }
